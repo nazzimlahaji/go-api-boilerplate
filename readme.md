@@ -1,12 +1,12 @@
-# Go Boilerplate
+# Go API Boilerplate
 
-This Go Boilerplate provides a structured starting point for developing applications in Go Language. It includes essential configurations, guidelines, and dependencies to help you set up a Go project quickly and efficiently. By following the steps outlined in this Go Boilerplate, you can ensure that your Go application adheres to best practices and is ready for development and deployment. Whether you are a beginner or an experienced developer, this Go Boilerplate aims to streamline your workflow and enhance productivity.
+This Go API Boilerplate provides a structured starting point for developing applications in Go Language. It includes essential configurations, guidelines, and dependencies to help you set up a Go project quickly and efficiently. By following the steps outlined in this Go API Boilerplate, you can ensure that your Go application adheres to best practices and is ready for development and deployment. Whether you are a beginner or an experienced developer, this Go API Boilerplate aims to streamline your workflow and enhance productivity.
 
 ## Features
 
 ### Authentication with Firebase
 
-This Go Boilerplate integrates Firebase for authentication, providing a secure and scalable way to manage user authentication. By using Firebase, you can leverage its robust features such as email/password authentication, social media logins, and more.
+This Go API Boilerplate integrates Firebase for authentication, providing a secure and scalable way to manage user authentication. By using Firebase, you can leverage its robust features such as email/password authentication, social media logins, and more.
 
 ### Monitoring with Sentry
 
@@ -14,7 +14,7 @@ Sentry is included for monitoring and error tracking. It helps you identify and 
 
 ### ORM with GORM
 
-GORM is used as the Object-Relational Mapping (ORM) library in this Go Boilerplate. It simplifies database interactions by allowing you to work with Go structs instead of raw SQL queries. GORM supports various databases and provides features like auto-migrations, associations, and more.
+GORM is used as the Object-Relational Mapping (ORM) library in this Go API Boilerplate. It simplifies database interactions by allowing you to work with Go structs instead of raw SQL queries. GORM supports various databases and provides features like auto-migrations, associations, and more.
 
 ### CLI with Cobra
 
@@ -22,7 +22,7 @@ Cobra is used for building the command-line interface (CLI) of your application.
 
 ### File Storage with Minio
 
-Minio is included for file storage, providing a high-performance, S3-compatible object storage solution. By using Minio, you can store and manage files efficiently within your Go Boilerplate. It supports various storage backends and offers features like data protection, encryption, and scalability.
+Minio is included for file storage, providing a high-performance, S3-compatible object storage solution. By using Minio, you can store and manage files efficiently within your Go API Boilerplate. It supports various storage backends and offers features like data protection, encryption, and scalability.
 
 ## Guide
 
